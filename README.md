@@ -98,12 +98,12 @@ And then, we can use the mean and the variance to compute the parameter <img src
 
 After having the parameter of the gamma distribution, the question is:
 
-Suppose we have two random variables X and Y which are drawn from two different gamma distributions, how we can compute $`\mathbb{P}(X<Y)`$?
+Suppose we have two random variables X and Y which are drawn from two different gamma distributions, how we can compute <img src = "http://latex.codecogs.com/svg.latex?%5Cmathbb%7BP%7D%28X%3CY%29">?
 
-It can be seen that this problem has no analytic solution when the parameter $`\theta`$ of the two distributions are different.
+It can be seen that this problem has no analytic solution when the parameter <img src = "http://latex.codecogs.com/svg.latex?%5Ctheta$"> of the two distributions are different.
 
 So in our program, the MC simulation is used to solve this problem. 
-1000 points from two distributions are drawn respectively and we count the number that satisfies $`X<Y`$ and we use the frequency to estimate the possibility.
+1000 points from two distributions are drawn respectively and we count the number that satisfies <img src = "http://latex.codecogs.com/svg.latex?X%3CY"> and we use the frequency to estimate the possibility.
 
 ## Isochrone Map Build
 <p align="center">
