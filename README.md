@@ -91,8 +91,7 @@ As we can see, the gamma functions has two parameters, the $`k`$ and the $`\thet
 The mean of the gamma distribution is $`k \theta`$, and the variance of the gamma distribution is $k \theta^2$.
 
 PDF of gamma distribution :
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;p(x) = \frac{1}{\Gamma(k) \theta^{k}} x^{k-1} e^{-\frac{x}{\theta}}" 
-title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> , where $`x \in (0, \infty)`$
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19ef284ee08d98f97062b66d3e0788566ca28367">
 
 So in the dataset, we just compute the mean and the varicance of the data as an estimation of the mean and the variance of the distribution.
 And then, we can use the mean and the variance to compute the parameter $`k`$ and $`\theta`$.
