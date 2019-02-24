@@ -1,5 +1,5 @@
 # DS Lab - Final Assignment: Robust Journey Planning
-# This project was done by Dream Team: Xingce Bao, Sohyeong Kim, Guilio Masinelli, Silvio Zanoli
+## This project was done by Dream Team: Xingce Bao, Sohyeong Kim, Guilio Masinelli, Silvio Zanoli
 # Splendid routing algorithm with distribution of arriving time !
 <p align="center">
   <img src="./images/route1.jpeg" alt="routing"/>
