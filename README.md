@@ -87,8 +87,8 @@ The gamma distribution has a probability denstity function like this:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gamma_distribution_pdf.svg/325px-Gamma_distribution_pdf.svg.png" alt="gamma distribution"/>
 </p>
 
-As we can see, the gamma functions has two parameters, the <img src = "http://latex.codecogs.com/svg.latex?k"> and the $`\theta`$ . 
-The mean of the gamma distribution is $`k \theta`$, and the variance of the gamma distribution is $k \theta^2$.
+As we can see, the gamma functions has two parameters, the <img src = "http://latex.codecogs.com/svg.latex?k"> and the <img src = "http://latex.codecogs.com/svg.latex?%5Ctheta$"> . 
+The mean of the gamma distribution is <img src = "http://latex.codecogs.com/svg.latex?$k%2F+%5Ctheta">, and the variance of the gamma distribution is $k \theta^2$.
 
 PDF of gamma distribution :
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19ef284ee08d98f97062b66d3e0788566ca28367">
