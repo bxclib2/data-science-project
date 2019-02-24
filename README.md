@@ -88,7 +88,7 @@ The gamma distribution has a probability denstity function like this:
 </p>
 
 As we can see, the gamma functions has two parameters, the $`k`$ and the $`\theta`$ . 
-The mean of the gamma distribution is $`k \theta`$, and the variance of the gamma distribution is $`k \theta^2`$.
+The mean of the gamma distribution is $`k \theta`$, and the variance of the gamma distribution is $k \theta^2$.
 
 PDF of gamma distribution :
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;p(x) = \frac{1}{\Gamma(k) \theta^{k}} x^{k-1} e^{-\frac{x}{\theta}}" 
