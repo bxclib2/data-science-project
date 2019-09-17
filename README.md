@@ -14,6 +14,7 @@
 <p align="center">
   <img src="./images/map2.png" alt="iso-heatmap"/>
 </p>
+
 ## Problem Motivation
 
 Imagine you are a regular user of the public transport system, and you are checking the operator's schedule to meet your friends for a class reunion. The choices are:
